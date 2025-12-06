@@ -1,4 +1,25 @@
-## Hi there 👋
+## Hi, I'm Felipe 👋
+
+* 📍 I'm from Florianópolis, SC - Brazil
+* 💻 Full Stack Developer
+* 🎓 Systems Analysis and Development degree from UniSENAI (2025)
+* 💪 Driven by challenges that make me better every day
+
+## GitHub Stats
+
+<div align="center">
+
+![Felipe's GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=felipeloche&theme=black-ice&hide_border=true)
+
+</div>
+
+## Languages & Tools
+
+<div align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,nestjs,php,cs,python,java,postgresql,mongodb,git,aws,tailwind" /></div>
+
+## Contact
+
+[![LINKEDIN](https://img.shields.io/badge/-LINKEDIN-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/felipe-loche)
 
 <!--
 **felipeloche/felipeloche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
